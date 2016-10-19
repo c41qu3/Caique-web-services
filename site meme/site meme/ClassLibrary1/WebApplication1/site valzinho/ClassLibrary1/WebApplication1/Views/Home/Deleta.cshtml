@@ -1,0 +1,88 @@
+﻿@model IEnumerable<WebApplication2.Models.ClienteViewModelTela>
+
+@{
+    ViewBag.Title = "Deleta";
+}
+
+
+<h2>Exclusão de carro vendido</h2>
+<br /><br />
+@using (Html.BeginForm("Deleta", "Home", FormMethod.Post))
+{
+    <p>por favor, favor digite o código do carro a ser excluído</p>
+    <input id="Codigo" type="text" name="Codigo" value="" class="Data" />
+    <input type="submit" name="btnOK" value="OK" />
+}
+<br/>
+
+@foreach (var item in Model)
+{
+
+    <div style="width:40%;height:500px; float:left ">
+        <div style=" width:65%; background-color:#dcd0d0; margin-left:35%;height:400px">
+            <div style="margin-left:10px">
+                <br />
+                <strong>Modelo:</strong> @Html.DisplayFor(modelItem => item.Modelo)
+                <br /><br />
+                <strong>Km:</strong> @Html.DisplayFor(modelItem => item.Km)
+                <br /><br />
+                <strong>Combustível:</strong> @Html.DisplayFor(modelItem => item.Combustivel)
+                <br /><br />
+                <strong>Cambio:</strong> @Html.DisplayFor(modelItem => item.Cambio)
+                <br /><br />
+                <strong>Final da placa:</strong> @Html.DisplayFor(modelItem => item.FinalPlaca)
+                <br /><br />
+                <strong> Ano: </strong> @Html.DisplayFor(modelItem => item.Ano)
+                <br /><br />
+                <strong>Cor:</strong> @Html.DisplayFor(modelItem => item.Cor)
+                <br /><br />
+                <strong>Preço:</strong> @Html.DisplayFor(modelItem => item.Preco)
+                <br /><br />
+                <strong>Codigo:</strong> @Html.DisplayFor(modelItem => item.Codigo)
+            </div>
+        </div>
+    </div>
+    <br /><br />
+    <div style="width:60%;float:right;height:500px">
+        <div id="@item.Modelo" class="carousel slide" data-ride="carousel ">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#carousel-example-generic" data-slide-to="0"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <img src="@item.Foto1" alt="...">
+                    <div class="carousel-caption">
+                        ...
+                    </div>
+                </div>
+                <div class="item ">
+                    <img src="@item.Foto2" alt="...">
+                    <div class="carousel-caption">
+                        ...
+                    </div>
+                </div>
+                ...
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#@item.Modelo" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#@item.Modelo" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+
+    </div>
+    <br /><br />
+
+
+}
+

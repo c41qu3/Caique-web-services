@@ -1,0 +1,42 @@
+c:\users\caique\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\caique\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+c:\users\caique\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\caique\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\caique\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\caique\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\caique\Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\caique\Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\caique\Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\caique\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\caique\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\caique\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\ClassLibrary1\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\caique\Desktop\site igor\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\caique\Desktop\site igor\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\caique\Desktop\site igor\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\caique\Desktop\site igor\ClassLibrary1\ClassLibrary1\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\caique\Desktop\site igor\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\caique\Desktop\site igor\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\ClassLibrary1\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Caique Santos\Documents\site valzinho\ClassLibrary1\ClassLibrary1\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Caique Santos\Documents\site valzinho\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Caique Santos\Documents\site valzinho\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Caique Santos\Documents\site valzinho\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Caique Santos\Documents\site valzinho\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Caique Santos\Documents\site valzinho\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Caique Santos\Desktop\Trabalhos sites\site meme\site meme\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Caique Santos\Desktop\Trabalhos sites\site meme\site meme\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Caique Santos\Desktop\Trabalhos sites\site meme\site meme\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Caique Santos\Desktop\Trabalhos sites\site meme\site meme\ClassLibrary1\ClassLibrary1\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Caique Santos\Desktop\Trabalhos sites\site meme\site meme\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Caique Santos\Desktop\Trabalhos sites\site meme\site meme\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

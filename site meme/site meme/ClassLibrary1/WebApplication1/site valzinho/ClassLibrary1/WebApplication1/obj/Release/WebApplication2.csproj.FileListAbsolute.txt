@@ -1,0 +1,228 @@
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\WebApplication1.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\ClassLibrary1.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\EntityFramework.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Owin.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\WebGrease.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\ClassLibrary1.pdb
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\EntityFramework.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\obj\Release\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\caique\Desktop\Nova pasta (2)\ClassLibrary1\WebApplication1\obj\Release\WebApplication1.pdb
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\WebApplication1.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\ClassLibrary1.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\EntityFramework.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Owin.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\WebGrease.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\ClassLibrary1.pdb
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\EntityFramework.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\obj\Release\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\caique\Desktop\Site Igor\ClassLibrary1\WebApplication1\obj\Release\WebApplication1.pdb
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\WebApplication1.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\ClassLibrary1.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\EntityFramework.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Owin.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\WebGrease.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\ClassLibrary1.pdb
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\EntityFramework.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\obj\Release\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\caique\Desktop\site valzinho\ClassLibrary1\WebApplication1\obj\Release\WebApplication1.pdb
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\ClassLibrary1.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Owin.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\WebGrease.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\ClassLibrary1.pdb
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\obj\Release\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\Caique Santos\Desktop\site valzinho\ClassLibrary1\WebApplication1\obj\Release\WebApplication1.pdb

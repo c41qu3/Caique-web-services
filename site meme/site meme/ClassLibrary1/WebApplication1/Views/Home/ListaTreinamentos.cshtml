@@ -1,0 +1,28 @@
+﻿@model IEnumerable<WebApplication2.Models.ClienteViewModelTelanCarro>
+
+@{
+    ViewBag.Title = "Lista";
+}
+
+<center><h2>Fotos dos treinamentos</h2></center>
+<br />
+
+
+@foreach (var item in Model)
+{
+
+
+    <center>
+
+        <a href="@item.foto1" data-lightbox="galeria" data-title="My caption">
+            <div><img src="@item.foto1" style="width:70%; border-radius:10px ; margin-top:3px" height="400" />  </div>
+        </a>
+
+    </center>
+    <center> <div style="width:70%;height:100px; background-color:gainsboro; margin-bottom:25px ; border-radius:10px"><center><h2 style="font-size:medium"><br /> Descrição: @Html.DisplayFor(modelItem => item.descricao)</h2> </center></div> </center>
+    <br />
+
+
+}
+
+
