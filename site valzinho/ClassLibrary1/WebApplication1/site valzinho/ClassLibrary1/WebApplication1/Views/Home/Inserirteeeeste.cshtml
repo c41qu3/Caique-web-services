@@ -1,0 +1,153 @@
+﻿@model IEnumerable<WebApplication2.Models.ClienteViewModelTela>
+
+@{
+    ViewBag.Title = "Inserirteeeeste";
+}
+
+<h2>Inserirteeeeste</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Codigo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Modelo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Km)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Combustivel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cambio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FinalPlaca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ano)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Preco)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Opcao1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Opcao2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Opcao3)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Opcao4)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Opcao5)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Opcao6)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Foto1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Foto2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Foto3)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Foto4)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Foto5)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Foto6)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Codigo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Modelo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Km)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Combustivel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cambio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FinalPlaca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ano)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Preco)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Opcao1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Opcao2)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Opcao3)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Opcao4)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Opcao5)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Opcao6)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Foto1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Foto2)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Foto3)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Foto4)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Foto5)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Foto6)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>
