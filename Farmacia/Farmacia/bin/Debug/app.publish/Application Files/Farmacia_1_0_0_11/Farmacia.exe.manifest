@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Farmacia.exe" version="1.0.0.11" publicKeyToken="12d54d83043c4fb7" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Farmacia" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Farmacia.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Farmacia.exe" size="87984">
+      <assemblyIdentity name="Farmacia" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>S/k886+fRfXOKKNV716lNxxm+5O8pf8mXCWRFTkxhfo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Farmacia.exe.config" size="468">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hsvV/uGknB2TjX84/kCnd5VKHO9WRGzt2RBS6zy4RoQ=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CAIQUE\caique" issuerKeyHash="a90ac7bbdaab22ea4c2d8eb4a8bfa964e5554cad" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>eqZXtDC1zaAwyUOK/6ojw+NQuxu0kVLXZyq93medJPE=</DigestValue></Reference></SignedInfo><SignatureValue>ltmG/Gl5vpHmYfxzQLTJm+igvZflGHy+tvkRHCAtgpnC2Q0zS4fJZHoDAPC96kD+eTgWmbBOjgWsHFeFylxK+B1aUjQSzHwd4Gxt5D1Vx98FjF4+V4UmHtVPMAKiNFtOFt5DjO5lCCmX5KOsYv1Jw+m9OlEKRyiAY4Nww6fxE/k=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>odx2dGa+ziSPD0gDYFy9i0lp3wnUpyPTP/dtBgaJgW/3orM0fIVYT80CxcRjEdkDTTTh+ED7pwf/S+xkHLT+DHEqSaePXA+BQiA87O8NE50yx2eTNzRoLSEcmW4Y9hXq94wu7rKGEQXyRoyOjQ18RCzLbKAdbMsefrJMTPRcDds=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f1249d67debd2a67d75291b41bbb50e3c323aaff8a43c930a0cdb530b457a67a" Description="" Url=""><as:assemblyIdentity name="Farmacia.exe" version="1.0.0.11" publicKeyToken="12d54d83043c4fb7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CAIQUE\caique</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>q+YfCGXGx9N3EBNO8AQe8O2zYI76j62H2wm0Ckzneuo=</DigestValue></Reference></SignedInfo><SignatureValue>coy3zOf/HEdyyrLXAgJCXXNIcCcAK4phsMKTgfMB7lF5Xk92UGmdIvTEZt6nvfnHqVO3ZibLHjzqno8lvFPr9I0l/wwACaj9GCqHkupXxuwX6s3vSsu5285w+Ww4uxGvxlGJmgPCPbqSNh2YEx6sAhJI5fngIS7CHSJZaZrMGjw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>odx2dGa+ziSPD0gDYFy9i0lp3wnUpyPTP/dtBgaJgW/3orM0fIVYT80CxcRjEdkDTTTh+ED7pwf/S+xkHLT+DHEqSaePXA+BQiA87O8NE50yx2eTNzRoLSEcmW4Y9hXq94wu7rKGEQXyRoyOjQ18RCzLbKAdbMsefrJMTPRcDds=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQEW6hiarZW7lIfvJAl0uoKTANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAQwBBAEkAUQBVAEUAXABjAGEAaQBxAHUAZTAeFw0xNTEwMDMwMzAwMzdaFw0xNjEwMDIwOTAwMzdaMCUxIzAhBgNVBAMeGgBDAEEASQBRAFUARQBcAGMAYQBpAHEAdQBlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCh3HZ0Zr7OJI8PSANgXL2LSWnfCdSnI9M/920GBomBb/eiszR8hVhPzQLFxGMR2QNNNOH4QPunB/9L7GQctP4McSpJp49cD4FCIDzs7w0TnTLHZ5M3NGgtIRyZbhj2Fer3jC7usoYRBfJGjI6NDXxELMtsoB1syx5+skxM9FwN2wIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAElTfDFiyYp4T/La1pkiAXddOhjc1Hf6/ZoidBPDSnZcBq65LeCEBGisY6BDv/1R1OVOS6Oqn9exnPZg5GWFZ9T369DWUy1B78IeHtNVddeexj8CLIMet5QAw7eZdsaTeA1ivDblq3rqS3Amv0X+AFBkC+xtC5fxxdjrAL/S17sp</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,76 @@
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.exe.manifest
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.application
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Principal.resources
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.tela_compra_pagamento.resources
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_duplicatas.resources
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_Exibe_Clientes_Devedores.resources
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.tela_inserir.resources
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_produtos_promocao.resources
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.ultimos_pagamentos.resources
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.exe.manifest
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.application
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\caique\documents\visual studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+E:\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+E:\Farmacia\Farmacia\bin\Debug\Farmacia.exe.manifest
+E:\Farmacia\Farmacia\bin\Debug\Farmacia.application
+E:\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+E:\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.Principal.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.tela_compra_pagamento.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_duplicatas.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_Exibe_Clientes_Devedores.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.tela_inserir.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_produtos_promocao.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.ultimos_pagamentos.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.exe.manifest
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.application
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.application
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Principal.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.tela_compra_pagamento.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_duplicatas.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_Exibe_Clientes_Devedores.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.tela_inserir.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_produtos_promocao.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.ultimos_pagamentos.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.application
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+F:\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+F:\Farmacia\Farmacia\bin\Debug\Farmacia.exe.manifest
+F:\Farmacia\Farmacia\bin\Debug\Farmacia.application
+F:\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+F:\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.Principal.resources
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.tela_compra_pagamento.resources
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_duplicatas.resources
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_Exibe_Clientes_Devedores.resources
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.tela_inserir.resources
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_produtos_promocao.resources
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.ultimos_pagamentos.resources
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.exe.manifest
+F:\Farmacia\Farmacia\obj\Debug\Farmacia.application
