@@ -40,7 +40,8 @@ namespace Farmacia
 
             //criando a lista de códigos e as datas do banco
             String data;
-            List<int> listacodigos = new List<int>(); 
+            List<int> codsummes = new List<int>();
+            List<int> codsdoismes = new List<int>();
             //pegando as pessoas em divida e colocando na lista de codigos
             for (int i = 0; i < lista.Count; i++)
             {
@@ -50,42 +51,88 @@ namespace Farmacia
                 String ano = data[6] + "" + "" + data[7]+data[8]+data[9] ;
 
                int dia1 = int.Parse(dia); 
-               int mes1 = int.Parse(mes) ; // conversão para inteiro "O -1 É APENAS PARA TESTES"
+               int mes1 = int.Parse(mes) ; 
                int ano1 = int.Parse(ano) ;
 
-               if ((diaatual1 >= dia1 && (mesatual1 > mes1 || anoatual1 > ano1))|| mes1+2 <= mesatual1 && diaatual1< dia1  )
+               TimeSpan date = Convert.ToDateTime(diaatual1 + "/" + mesatual1 + "/" + anoatual1) - Convert.ToDateTime(dia1 + "/" + mes1 + "/" + ano1);
+
+               int totalDias = date.Days;
+
+               if ( totalDias > 30 && totalDias < 60 )
                {
-                   listacodigos.Add(lista[i].Cod_divida);
+                   codsummes.Add(lista[i].Cod_divida); //lista de codigos de devedores de um mês
                }
-               if (ano1 < anoatual1) {
-                   listacodigos.Add(lista[i].Cod_divida);
+               if (totalDias >= 60) {
+                   codsdoismes.Add(lista[i].Cod_divida); //lista de codigos de devedores de dois meses
                }
             }
 
             //removendo os repetidos
 
-            listacodigos = listacodigos.Distinct().ToList();
+            codsummes = codsummes.Distinct().ToList();
+            codsdoismes = codsdoismes.Distinct().ToList();
 
-            List<Pessoa> pessoasEmDivida = new List<Pessoa>(); 
+            List<Pessoa> pessoas1mes = new List<Pessoa>();
+            List<Pessoa> pessoas2meses = new List<Pessoa>();
             // pegando as pessoas em divida e colocando em outra lista;
-            for (int x = 0; x< listacodigos.Count; x++)
+          
+            
+            for (int y = 0; y < codsdoismes.Count; y++) //criando lista de pessoas com 2 meses de atraso
             {
-                pessoasEmDivida.Add (pd.BuscarPorcod_divida(listacodigos[x]));
-               
+                pessoas2meses.Add(pd.BuscarPorcod_divida(codsdoismes[y]));
+
             }
 
-           //exibindo
+
+
+            List<int> aux = new List<int>();
            
-            for (int x = 0; x < pessoasEmDivida.Count; x++)
+            for (int l = 0; l < codsummes.Count; l++)  //criando lista de pessoas com 1 meses de atraso, e retirando quem deve a mais de 60 do bolo
+            {
+                bool testa = true;
+                for (int y = 0; y < codsdoismes.Count; y++)
+                {
+                    if (codsummes[l] == codsdoismes[y])
+                    {
+                        testa = false;
+                        break;
+                    }
+                      
+                }
+                if (testa == false)
+                {
+
+                }
+                if (testa == true){
+                    pessoas1mes.Add(pd.BuscarPorcod_divida(codsummes[l]));
+                }
+            }
+
+           
+
+
+            //exibindo
+
+            for (int z = 0; z < pessoas2meses.Count; z++)
             {
                  
-                dtvTodasdividas.Rows.Add(new object[] { pessoasEmDivida[x].Nome, pessoasEmDivida[x].Apelido, pessoasEmDivida[x].CPF});
+                dtvTodasdividas.Rows.Add(new object[] { pessoas2meses[z].Nome, pessoas2meses[z].Apelido, pessoas2meses[z].CPF});
             }
+            for (int a = 0; a < pessoas1mes.Count; a++)
+            {
+                DgvUmMes.Rows.Add(new object[] { pessoas1mes[a].Nome, pessoas1mes[a].Apelido, pessoas1mes[a].CPF });
+            }
+
 
 
         }
 
         private void dtvTodasdividas_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }

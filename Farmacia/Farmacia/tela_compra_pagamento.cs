@@ -113,6 +113,8 @@ namespace Farmacia
                 
             }
 
+            lblJuros.Text = "-";
+
             PessoaDAL pd = new PessoaDAL();
             int cod = Convert.ToInt32(lblCodigo.Text);
             Divida d = new Divida();
@@ -122,6 +124,8 @@ namespace Farmacia
 
 
             Decimal valortot = new Decimal();
+            DateTime menordata = Convert.ToDateTime("9/9/9999");//serve para calcular os juros
+            Decimal valorJuros = new Decimal(); //serve para calcular os juros
             for (int i = 0; i < lista.Count; i++)
             {
                 DTVdividas.Rows.Add(new object[] { lista[i].Quantidade, lista[i].Produto, lista[i].Data, lista[i].Comprador, lista[i].preco,lista[i].Cod_deleta });
@@ -142,21 +146,39 @@ namespace Farmacia
                 int mesatual1 = int.Parse(mesatual);
                 int anoatual1 = int.Parse(anoatual);
 
-                if ((diaatual1 >= dia1 && mes1 + 1 == mesatual1) || (mes1 + 2 == mesatual1 && diaatual1 < dia1))
-                {
+                TimeSpan date = Convert.ToDateTime(diaatual1+"/"+mesatual1+"/"+anoatual1) - Convert.ToDateTime(dia1+"/"+mes1+"/"+ano1);
+
+                int totalDias = date.Days;
+                if ( totalDias > 30 && totalDias < 60) {
                     DTVdividas.Rows[i].Cells[2].Style.BackColor = Color.Yellow;
+                    valorJuros = (valorJuros) + (lista[i].preco); //CALCULA SÓ O SOMATORIO DAS DIVIDAS ATRASADAS
                 }
-
-                if ((diaatual1 >= dia1 && (mesatual1 >= mes1 + 2))|| (mesatual1 >= mes1+3 &&  diaatual1  < dia1))
-                {
-
-                    DTVdividas.Rows[i].Cells[2].Style.BackColor = Color.Red;
-                }
-                if (ano1 < anoatual1)
+                if ( totalDias >= 60)
                 {
                     DTVdividas.Rows[i].Cells[2].Style.BackColor = Color.Red;
+                    valorJuros = (valorJuros) + (lista[i].preco); //CALCULA SÓ O SOMATORIO DAS DIVIDAS ATRASADAS
                 }
+                if (Convert.ToDateTime(dia1 + "/" + mes1 + "/" + ano1) < menordata)
+                {
+                    menordata = Convert.ToDateTime(dia1 + "/" + mes1 + "/" + ano1);
+                }
+
+               
             }
+            DateTime dt = new DateTime();//
+            dt = DateTime.Now;//
+            TimeSpan dateJuros = dt - Convert.ToDateTime(menordata);// cálculo dos juros baseado na menor data em porcentagem
+            int totalDiasJuros = dateJuros.Days; //quantidade a ser contada juros
+            if (totalDiasJuros > 30)
+            {
+                int diaspagos = totalDiasJuros - 30;
+                double porcentagemdejuros = (diaspagos * 0.33);
+
+                double juros = Convert.ToDouble(valorJuros) * (porcentagemdejuros / 100);
+
+                lblJuros.Text = Convert.ToString(juros);
+            }
+
 
             lblsaldodevedor.Text = Convert.ToString(valortot);
 
@@ -224,6 +246,8 @@ namespace Farmacia
             lista = pd.ListarDividas(Convert.ToInt32(lblCodigo.Text));
 
             Decimal valortot = new Decimal();
+            DateTime menordata = Convert.ToDateTime("9/9/9999");
+            Decimal valorJuros = new Decimal(); //serve para calcular os juros
             for (int i = 0; i < lista.Count; i++)
             {
                 DTVdividas.Rows.Add(new object[] { lista[i].Quantidade, lista[i].Produto, lista[i].Data, lista[i].Comprador, lista[i].preco,lista[i].Cod_deleta });
@@ -245,6 +269,25 @@ namespace Farmacia
                 int mesatual1 = int.Parse(mesatual);
                 int anoatual1 = int.Parse(anoatual);
 
+
+                TimeSpan date = Convert.ToDateTime(diaatual1+"/"+mesatual1+"/"+anoatual1) - Convert.ToDateTime(dia1+"/"+mes1+"/"+ano1);
+
+                int totalDias = date.Days;
+                if (totalDias >= 30 && totalDias < 60)
+                {
+                    DTVdividas.Rows[i].Cells[2].Style.BackColor = Color.Yellow;
+                    valorJuros = (valorJuros) + (lista[i].preco); //CALCULA SÓ O SOMATORIO DAS DIVIDAS ATRASADAS
+                }
+                if (totalDias >= 60)
+                {
+                    DTVdividas.Rows[i].Cells[2].Style.BackColor = Color.Red;
+                    valorJuros = (valorJuros) + (lista[i].preco); //CALCULA SÓ O SOMATORIO DAS DIVIDAS ATRASADAS
+                }
+                if (Convert.ToDateTime(dia1 + "/" + mes1 + "/" + ano1) < menordata) {
+                    menordata = Convert.ToDateTime(dia1 + "/" + mes1 + "/" + ano1);
+                }
+               
+                /*
                 if ((diaatual1 >= dia1 && mes1 + 1 == mesatual1) || (mes1 + 2 == mesatual1 && diaatual1 < dia1))
                 {
                     DTVdividas.Rows[i].Cells[2].Style.BackColor = Color.Yellow;
@@ -258,7 +301,19 @@ namespace Farmacia
                 if (ano1 < anoatual1)
                 {
                     DTVdividas.Rows[i].Cells[2].Style.BackColor = Color.Red;
-                }
+                }*/
+            }
+            DateTime dt = new DateTime();//
+            dt = DateTime.Now;//
+            TimeSpan dateJuros = dt - Convert.ToDateTime(menordata);// cálculo dos juros baseado na menor data
+            int totalDiasJuros = dateJuros.Days;//
+            if (totalDiasJuros > 30) {
+                int diaspagos = totalDiasJuros - 30;
+                double porcentagemdejuros = (diaspagos * 0.33);
+
+                double juros = Convert.ToDouble(valorJuros) * (porcentagemdejuros/100);
+
+                lblJuros.Text = Convert.ToString(juros);
             }
 
             lblsaldodevedor.Text = Convert.ToString(valortot);
@@ -427,7 +482,8 @@ namespace Farmacia
             
 
             Decimal valortot = new Decimal();
-
+            DateTime menordata = Convert.ToDateTime("9/9/9999");
+            Decimal valorJuros = new Decimal(); //serve para calcular os juros
 
             for (int i = 0; i < lista.Count; i++)
             {
@@ -450,21 +506,37 @@ namespace Farmacia
                 int mesatual1 = int.Parse(mesatual);
                 int anoatual1 = int.Parse(anoatual);
 
-                if ((diaatual1 >= dia1 && mes1 + 1 == mesatual1) || (mes1 + 2 == mesatual1 && diaatual1 < dia1))
+                TimeSpan date = Convert.ToDateTime(diaatual1+"/"+mesatual1+"/"+anoatual1) - Convert.ToDateTime(dia1+"/"+mes1+"/"+ano1);
+
+                int totalDias = date.Days;
+                if (totalDias >= 30 && totalDias < 60)
                 {
                     DTVdividas.Rows[i].Cells[2].Style.BackColor = Color.Yellow;
+                    valorJuros = (valorJuros) + (lista[i].preco); //CALCULA SÓ O SOMATORIO DAS DIVIDAS ATRASADAS
                 }
-
-                if ((diaatual1 >= dia1 && (mesatual1 >= mes1 + 2)) || (mesatual1 >= mes1 + 3 && diaatual1 < dia1))
+                if (totalDias >= 60)
                 {
-
                     DTVdividas.Rows[i].Cells[2].Style.BackColor = Color.Red;
+                    valorJuros = (valorJuros) + (lista[i].preco); //CALCULA SÓ O SOMATORIO DAS DIVIDAS ATRASADAS
                 }
-                if (ano1 < anoatual1) {
-                    DTVdividas.Rows[i].Cells[2].Style.BackColor = Color.Red;
-               }
+                 if (Convert.ToDateTime(dia1 + "/" + mes1 + "/" + ano1) < menordata) { // cálculo do juro
+                    menordata = Convert.ToDateTime(dia1 + "/" + mes1 + "/" + ano1);
+                }
+               
             }
+            DateTime dt = new DateTime();//
+            dt = DateTime.Now;//
+            TimeSpan dateJuros = dt - Convert.ToDateTime(menordata);// cálculo dos juros baseado na menor data
+            int totalDiasJuros = dateJuros.Days;//
+            if (totalDiasJuros > 30)
+            {
+                int diaspagos = totalDiasJuros - 30;
+                double porcentagemdejuros = (diaspagos * 0.33);
 
+                double juros = Convert.ToDouble(valorJuros) * (porcentagemdejuros / 100);
+
+                lblJuros.Text = Convert.ToString(juros);
+            }
             lblsaldodevedor.Text = Convert.ToString(valortot);
             nudDeletaItem.Text = "";
 

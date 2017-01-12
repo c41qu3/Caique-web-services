@@ -67,7 +67,7 @@
             this.btnclientesemdivida.Name = "btnclientesemdivida";
             this.btnclientesemdivida.Size = new System.Drawing.Size(260, 88);
             this.btnclientesemdivida.TabIndex = 3;
-            this.btnclientesemdivida.Text = "Listar Clientes em dívida";
+            this.btnclientesemdivida.Text = "Auxílio de cobranças";
             this.btnclientesemdivida.UseVisualStyleBackColor = true;
             this.btnclientesemdivida.Click += new System.EventHandler(this.btnclientesemdivida_Click);
             // 
@@ -115,7 +115,7 @@
             this.panel1.Controls.Add(this.btnDuplicatas);
             this.panel1.Location = new System.Drawing.Point(-18, -10);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1403, 786);
+            this.panel1.Size = new System.Drawing.Size(1934, 1063);
             this.panel1.TabIndex = 7;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
@@ -124,7 +124,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(1354, 733);
+            this.ClientSize = new System.Drawing.Size(1916, 1053);
             this.Controls.Add(this.panel1);
             this.Name = "Principal";
             this.Text = "Principal";

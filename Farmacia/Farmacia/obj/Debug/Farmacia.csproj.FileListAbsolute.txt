@@ -74,3 +74,35 @@ F:\Farmacia\Farmacia\obj\Debug\Farmacia.ultimos_pagamentos.resources
 F:\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
 F:\Farmacia\Farmacia\obj\Debug\Farmacia.exe.manifest
 F:\Farmacia\Farmacia\obj\Debug\Farmacia.application
+D:\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+D:\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+D:\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+D:\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+D:\Farmacia\Farmacia\obj\Debug\Farmacia.Principal.resources
+D:\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+D:\Farmacia\Farmacia\obj\Debug\Farmacia.tela_compra_pagamento.resources
+D:\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_duplicatas.resources
+D:\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_Exibe_Clientes_Devedores.resources
+D:\Farmacia\Farmacia\obj\Debug\Farmacia.tela_inserir.resources
+D:\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_produtos_promocao.resources
+D:\Farmacia\Farmacia\obj\Debug\Farmacia.ultimos_pagamentos.resources
+D:\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Principal.resources
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.tela_compra_pagamento.resources
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_duplicatas.resources
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_Exibe_Clientes_Devedores.resources
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.tela_inserir.resources
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Tela_produtos_promocao.resources
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.ultimos_pagamentos.resources
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.exe.manifest
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.application
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.exe.manifest
+C:\Users\Caique Santos\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.application

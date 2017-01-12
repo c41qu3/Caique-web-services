@@ -94,6 +94,8 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.lblRegistrarvendas = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
+            this.lblJuros = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DTVdividas)).BeginInit();
             this.panel1.SuspendLayout();
@@ -449,6 +451,8 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Gray;
+            this.panel1.Controls.Add(this.lblJuros);
+            this.panel1.Controls.Add(this.label13);
             this.panel1.Controls.Add(this.lblRG);
             this.panel1.Controls.Add(this.label30);
             this.panel1.Controls.Add(this.label5);
@@ -753,6 +757,27 @@
             this.lblRegistrarvendas.TabIndex = 53;
             this.lblRegistrarvendas.Text = "registrar vendas";
             // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.Location = new System.Drawing.Point(32, 344);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(122, 18);
+            this.label13.TabIndex = 53;
+            this.label13.Text = "Juros por atraso:";
+            // 
+            // lblJuros
+            // 
+            this.lblJuros.AutoSize = true;
+            this.lblJuros.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblJuros.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.lblJuros.Location = new System.Drawing.Point(168, 344);
+            this.lblJuros.Name = "lblJuros";
+            this.lblJuros.Size = new System.Drawing.Size(13, 18);
+            this.lblJuros.TabIndex = 54;
+            this.lblJuros.Text = "-";
+            // 
             // tela_compra_pagamento
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -877,5 +902,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Tipo;
         private System.Windows.Forms.DataGridViewTextBoxColumn Observacao;
         private System.Windows.Forms.DataGridViewTextBoxColumn codigo;
+        private System.Windows.Forms.Label lblJuros;
+        private System.Windows.Forms.Label label13;
     }
 }
