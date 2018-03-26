@@ -1,0 +1,11 @@
+C:\Users\caiqu\source\repos\Shopping_Rural\Shopping_Rural\Shopping_Rural\bin\Debug\netstandard2.0\Shopping_Rural.deps.json
+C:\Users\caiqu\source\repos\Shopping_Rural\Shopping_Rural\Shopping_Rural\bin\Debug\netstandard2.0\Shopping_Rural.dll
+C:\Users\caiqu\source\repos\Shopping_Rural\Shopping_Rural\Shopping_Rural\bin\Debug\netstandard2.0\Shopping_Rural.pdb
+C:\Users\caiqu\source\repos\Shopping_Rural\Shopping_Rural\Shopping_Rural\obj\Debug\netstandard2.0\Shopping_Rural.csprojResolveAssemblyReference.cache
+C:\Users\caiqu\source\repos\Shopping_Rural\Shopping_Rural\Shopping_Rural\obj\Debug\netstandard2.0\Shopping_Rural.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\source\repos\Shopping_Rural\Shopping_Rural\Shopping_Rural\obj\Debug\netstandard2.0\Shopping_Rural.App.xaml.g.cs
+C:\Users\caiqu\source\repos\Shopping_Rural\Shopping_Rural\Shopping_Rural\obj\Debug\netstandard2.0\Shopping_Rural.MainPage.xaml.g.cs
+C:\Users\caiqu\source\repos\Shopping_Rural\Shopping_Rural\Shopping_Rural\obj\Debug\netstandard2.0\Shopping_Rural.AssemblyInfoInputs.cache
+C:\Users\caiqu\source\repos\Shopping_Rural\Shopping_Rural\Shopping_Rural\obj\Debug\netstandard2.0\Shopping_Rural.AssemblyInfo.cs
+C:\Users\caiqu\source\repos\Shopping_Rural\Shopping_Rural\Shopping_Rural\obj\Debug\netstandard2.0\Shopping_Rural.dll
+C:\Users\caiqu\source\repos\Shopping_Rural\Shopping_Rural\Shopping_Rural\obj\Debug\netstandard2.0\Shopping_Rural.pdb
